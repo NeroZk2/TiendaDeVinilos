@@ -1,4 +1,5 @@
 # TiendaDeVinilos
+Por Dilan Abarca
 ## Descripcion general:
 
 El sistema Tienda de Vinilos es una aplicación de consola diseñada para gestionar el catálogo de discos en vinilo disponibles para la venta. El sistema permite cargar vinilos de forma manual o desde archivos CSV, visualizar el catálogo completo y mantener un registro centralizado de los productos.
