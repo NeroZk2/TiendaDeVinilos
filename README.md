@@ -39,4 +39,13 @@ El sistema Tienda de Vinilos es una aplicación de consola diseñada para gestio
 - Reduce dependencia del constructor: Evita el uso repetido de constructores con múltiples parámetros, que pueden ser propensos a errores o cambios frecuentes.
 
 - Útil para prototipos cargados desde CSV: Si necesitas crear múltiples instancias similares o basadas en plantillas, usar clone() acelera la creación y mantiene la coherencia.
-
+---
+## Instrucciones de uso:
+### Software requerido:
+- Netbeans 12 en adelante.
+- JDK 24 (recomendado)
+### Instrucciones:
+- Descargar `Tienda de vinilos.rar`.
+- Descomprimir.
+- Abrir proyecto.
+- Iniciar.
