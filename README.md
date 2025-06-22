@@ -49,3 +49,9 @@ El sistema Tienda de Vinilos es una aplicación de consola diseñada para gestio
 - Descomprimir.
 - Abrir proyecto.
 - Iniciar.
+
+### Como agregar otro archivo CSV (Opcional):
+- Abrir un bloc de notas.
+- Ingresar datos en el siguiente formato: `Album;Artista;Precio` (el precio debe estar en numeros enteros)
+- Guardar el archivo como `.csv`.
+- Mover el archivo generado al siguiente directorio del proyecto: `Tienda de vinilos\src\csv`.
