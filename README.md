@@ -55,3 +55,4 @@ El sistema Tienda de Vinilos es una aplicación de consola diseñada para gestio
 - Ingresar datos en el siguiente formato: `Album;Artista;Precio` (el precio debe estar en numeros enteros)
 - Guardar el archivo como `.csv`.
 - Mover el archivo generado al siguiente directorio del proyecto: `Tienda de vinilos\src\csv`.
+- Al iniciar el programa y seleccionar la opcion de agregar desde un `csv`, deberas indicar el nombre del archivo sin la extencion.
