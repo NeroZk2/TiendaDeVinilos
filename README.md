@@ -16,19 +16,19 @@ El sistema Tienda de Vinilos es una aplicación de consola diseñada para gestio
 - Control de acceso a recurso único: Solo debe existir una instancia de la tienda que maneje el catálogo de vinilos, evitando inconsistencias o datos duplicados.
 
 - Estado global compartido: Facilita el acceso centralizado al catálogo, ya que múltiples partes del programa (como la carga CSV o el menú de visualización) deben trabajar sobre el mismo conjunto de datos.
-
+---
 ### Adapter (Clase ViniloAdapter2)
 #### Justificacion:
 
 - Abstracción de fuente de datos: El adaptador “adapta” la lectura del CSV a los objetos Vinilo del sistema, desacoplando la lógica de lectura del formato del archivo de la lógica del negocio.
-
+---
 ### Iterator (Clase ViniloIterator)
 #### Justificacion:
 
 - Separación de la estructura y la iteración: Permite recorrer la lista de vinilos sin exponer su representación interna (por ejemplo, si decides cambiar la lista por otro tipo de colección).
 
 - Uniformidad en recorrido: El mismo patrón puede usarse para recorrer cualquier colección en la tienda, no solo listas, manteniendo una interfaz común.
-
+---
 ### Prototype (Clase Vinilo)
 #### Justificacion:
 
