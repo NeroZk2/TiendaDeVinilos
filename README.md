@@ -1,5 +1,4 @@
 # TiendaDeVinilos
---------
 ## Patrones aplicados:
 - Singleton
 - Adapter
