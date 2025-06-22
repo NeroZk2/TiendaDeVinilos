@@ -3,7 +3,6 @@
 
 El sistema Tienda de Vinilos es una aplicación de consola diseñada para gestionar el catálogo de discos en vinilo disponibles para la venta. El sistema permite cargar vinilos de forma manual o desde archivos CSV, visualizar el catálogo completo y mantener un registro centralizado de los productos.
 
----
 ## Funciones principales:
 - Carga manual de vinilos: El usuario puede ingresar datos de un vinilo (álbum, artista, precio) mediante la consola.
 
